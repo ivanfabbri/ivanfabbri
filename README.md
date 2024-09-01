@@ -23,8 +23,6 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white&style=for-the-badge" height="30" alt="prometheus logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=black&style=for-the-badge" height="30" alt="grafana logo"  />
-  <img width="12" />
   <img src="https://img.shields.io/badge/Hibernate-59666C?logo=hibernate&logoColor=white&style=for-the-badge" height="30" alt="hibernate logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Composer-885630?logo=composer&logoColor=white&style=for-the-badge" height="30" alt="composer logo"  />
@@ -77,12 +75,6 @@
   <img src="https://streak-stats.demolab.com?user=ivanfabbri&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ivanfabbri&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph"  />
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/ivanfabbri/ivanfabbri/output/snake.svg" alt="Snake animation" />
 
 ###
 

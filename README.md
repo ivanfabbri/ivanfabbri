@@ -1,8 +1,4 @@
-<h3 align="left">About me</h3>
-
-###
-
-<h3 align="left">Ivan Fabbri is a full-stack Systems Analyst specialized in the development of web applications in the Java ecosystem. Committed to continuous improvement, he dedicates himself to meeting market demands by delivering innovative, interactive, and efficient solutions. Ivan focuses on maximizing productivity through well-architected systems and solution componentization.<br><br>Currently Ivan is deeply immersed in microservices, containerization, CI/CD and DevOps.</h3>
+<h4 align="left">Ivan Fabbri is a full-stack Systems Analyst specialized in the development of web applications in the Java ecosystem. Committed to continuous improvement, he dedicates himself to meeting market demands by delivering innovative, interactive, and efficient solutions. Ivan focuses on maximizing productivity through well-architected systems and solution componentization.<br><br>Currently Ivan is deeply immersed in microservices, containerization, CI/CD and DevOps.</h3>
 
 ###
 

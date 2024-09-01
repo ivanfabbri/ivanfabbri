@@ -63,8 +63,6 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white&style=for-the-badge" height="30" alt="jquery logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Subversion-809CC9?logo=subversion&logoColor=black&style=for-the-badge" height="30" alt="subversion logo"  />
-  <img width="12" />
   <img src="https://img.shields.io/badge/FileZilla-BF0000?logo=filezilla&logoColor=white&style=for-the-badge" height="30" alt="filezilla logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?logo=eclipseide&logoColor=white&style=for-the-badge" height="30" alt="eclipseide logo"  />
